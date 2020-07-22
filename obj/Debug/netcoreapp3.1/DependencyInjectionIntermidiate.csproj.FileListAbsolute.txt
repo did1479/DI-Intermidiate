@@ -1,0 +1,11 @@
+C:\Goals Workspace\MetacubeGoalProjects\bin\Debug\netcoreapp3.1\DependencyInjectionIntermidiate.exe
+C:\Goals Workspace\MetacubeGoalProjects\bin\Debug\netcoreapp3.1\DependencyInjectionIntermidiate.deps.json
+C:\Goals Workspace\MetacubeGoalProjects\bin\Debug\netcoreapp3.1\DependencyInjectionIntermidiate.runtimeconfig.json
+C:\Goals Workspace\MetacubeGoalProjects\bin\Debug\netcoreapp3.1\DependencyInjectionIntermidiate.runtimeconfig.dev.json
+C:\Goals Workspace\MetacubeGoalProjects\bin\Debug\netcoreapp3.1\DependencyInjectionIntermidiate.dll
+C:\Goals Workspace\MetacubeGoalProjects\bin\Debug\netcoreapp3.1\DependencyInjectionIntermidiate.pdb
+C:\Goals Workspace\MetacubeGoalProjects\obj\Debug\netcoreapp3.1\DependencyInjectionIntermidiate.csprojAssemblyReference.cache
+C:\Goals Workspace\MetacubeGoalProjects\obj\Debug\netcoreapp3.1\DependencyInjectionIntermidiate.AssemblyInfoInputs.cache
+C:\Goals Workspace\MetacubeGoalProjects\obj\Debug\netcoreapp3.1\DependencyInjectionIntermidiate.AssemblyInfo.cs
+C:\Goals Workspace\MetacubeGoalProjects\obj\Debug\netcoreapp3.1\DependencyInjectionIntermidiate.dll
+C:\Goals Workspace\MetacubeGoalProjects\obj\Debug\netcoreapp3.1\DependencyInjectionIntermidiate.pdb
